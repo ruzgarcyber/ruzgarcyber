@@ -4,7 +4,7 @@
 ```diff
 - Siber güvenlik tutkunu | Etik hacker | Bug bounty avcısı
 
-![Ethical Hacking](https://media.giphy.com/media/3o7aD4lVJbQ6aUqhsw/giphy.gif)
+![Ethical Hacking](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZvcG11NWwzZnF3c3puMTQycTc5ZHA2YWQ2NXNwbGJ4eHIwY3IwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif)
 
 ⚡ Hakkımda
 🔐 Siber güvenlik ve etik hackerlık ile ilgileniyorum
