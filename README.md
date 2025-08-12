@@ -4,7 +4,7 @@
 ```diff
 - Siber güvenlik tutkunu | Etik hacker | Bug bounty avcısı
 
-![Ethical Hacking](https://github.com/kullaniciadi/repoadi/blob/main/assets/etikethacking.gif?raw=true)
+![Occupy Never Forget](https://github.com/ruzgarumut12/profile/blob/main/assets/occupy-never-forget.gif?raw=true)
 
 ⚡ Hakkımda
 🔐 Siber güvenlik ve etik hackerlık ile ilgileniyorum
