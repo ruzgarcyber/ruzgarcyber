@@ -13,7 +13,7 @@ Hands-on with offensive security labs, CTF challenges, and lightweight Python to
 ---
 
 ## 🛠 Tools & Environment
-- **Kali Linux** on VirtualBox — lab/testing environment  
+- **Kali Linux** on VMware — lab/testing environment  
 - **TryHackMe** — hands-on labs & CTF practice  
 - **VS Code** — development editor  
 - **GitHub** — version control & code publishing
