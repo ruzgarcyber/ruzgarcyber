@@ -1,31 +1,50 @@
-# Merhaba, ben Rüzgar 👋
- Merhaba, ben Rüzgar 👋
+# 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
 
-```diff
-- Siber güvenlik tutkunu | Etik hacker | Bug bounty avcısı
+**Ethical Hacker · Bug Bounty Learner · Python Security Tooling**  
+Hands-on with offensive security labs, CTF challenges, and lightweight Python tools.
 
-![Occupy Never Forget](https://github.com/ruzgarumut12/profile/blob/main/assets/occupy-never-forget.gif?raw=true)
+---
 
-⚡ Hakkımda
-🔐 Siber güvenlik ve etik hackerlık ile ilgileniyorum
+## ⚡ Core Skills
+- **Primary Language:** `Python`  
+- **Security Focus:** Bug Bounty, Red Team fundamentals, OSINT, TCP/UDP scanning  
+- **Patterns & Tooling:** Threading, Asyncio, JSON automation
 
-🐍 Python ve Kali Linux severim
+---
 
-🚀 Bug bounty yolunda ilerliyorum
+## 🛠 Tools & Environment
+- **Kali Linux** on VirtualBox — lab/testing environment  
+- **TryHackMe** — hands-on labs & CTF practice  
+- **VS Code** — development editor  
+- **GitHub** — version control & code publishing
 
-🎯 Hedefim: Gerçek anlamda uzman bir beyaz şapkalı hacker olmak
+---
 
-💻 Teknolojiler & Araçlar
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📂 Selected Projects
+- **tcp-port-scanner** — Lightweight, multithreaded TCP port scanner in Python  
+  [GitHub Repository](https://github.com/ruzgarcyber/tcp-port-scanner)  
+- Ongoing CTF & lab writeups — see repositories for practical exercises
 
+---
 
+## 🔹 How I Work
+- Build **practical, testable scripts**  
+- Prototype → Test in lab → Document  
+- Outputs designed for **automation & reproducibility** (JSON, logs)
 
-📊 GitHub İstatistikleri
+---
 
-📫 İletişim
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ruzgarumut_12)
+## 🎯 Current Goals
+- Master **Bug Bounty & Red Team operations**  
+- Develop **reliable & reusable security tooling**  
+- Share **practical writeups** for the community
 
-“Hack the world, but ethically.”
+---
+
+## 📬 Contact
+- GitHub: [@ruzgarcyber](https://github.com/ruzgarcyber)  
+- Email: `ruzgaru.gundogan00@gmail.com` 
+
+---
+
+> Always testing, always learning, always improving — share, collaborate, iterate.
