@@ -1,6 +1,8 @@
 # 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
 
-**Aspiring Ethical Hacker · Bug Bounty Learner · Python Security Tooling**  
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="250"/>
+
+**Aspiring ethical hacker · Bug bounty learner · Python security tooling**  
 Hands-on with offensive security labs, CTF challenges, and lightweight Python tools.
 
 ---
@@ -16,7 +18,7 @@ Hands-on with offensive security labs, CTF challenges, and lightweight Python to
 - **Kali Linux** on VMware — lab/testing environment  
 - **TryHackMe** — hands-on labs & CTF practice  
 - **VS Code** — development editor  
-- **GitHub** — version control & code publishing
+- **Git & GitHub** — version control & code publishing
 
 ---
 
