@@ -23,7 +23,7 @@ Hands-on with offensive security labs, CTF challenges, and lightweight Python to
 ## 📂 Selected Projects
 - **tcp-port-scanner** — Lightweight, multithreaded TCP port scanner in Python  
   [GitHub Repository](https://github.com/ruzgarcyber/tcp-port-scanner)  
-- Ongoing CTF & lab writeups — see repositories for practical exercises
+- CTF & lab writeups — see repositories for practical exercises
 
 ---
 
