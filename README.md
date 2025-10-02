@@ -1,6 +1,6 @@
 # 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
 
-**Ethical Hacker · Bug Bounty Learner · Python Security Tooling**  
+**Aspiring Ethical Hacker · Bug Bounty Learner · Python Security Tooling**  
 Hands-on with offensive security labs, CTF challenges, and lightweight Python tools.
 
 ---
