@@ -1,4 +1,8 @@
 # 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0Y3h3cWdkZTVxcDBnbHltZ3g3cmF3NTFkdWZod3J6M2RheThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="250"/>
+
+
 **Aspiring ethical hacker · Bug bounty learner · Python security tooling**  
 Hands-on with offensive security labs, CTF challenges, and lightweight Python tools.
 
