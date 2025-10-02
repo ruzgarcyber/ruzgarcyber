@@ -1,7 +1,4 @@
 # 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300" alt="Matrix code GIF"/>
-
 **Aspiring ethical hacker · Bug bounty learner · Python security tooling**  
 Hands-on with offensive security labs, CTF challenges, and lightweight Python tools.
 
