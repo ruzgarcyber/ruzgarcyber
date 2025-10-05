@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tools & Environment (Buton-stili rozetler)
+## 🛠 Tools & Environment
 <p align="center">
 <a href="https://www.kali.org" title="Kali Linux"><img alt="Kali" src="https://img.shields.io/badge/Kali-Linux-262B33?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/ruzgaru.gundogan" title="TryHackMe Profile"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-ruzgaru.gundogan-0A84FF?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
@@ -24,7 +24,6 @@
 <a href="https://code.visualstudio.com" title="VS Code"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 <a href="https://git-scm.com" title="Git"><img alt="Git" src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://www.vmware.com" title="VMware"><img alt="VMware" src="https://img.shields.io/badge/VMware-VM-1B7CF2?style=for-the-badge" /></a>
-<a href="https://www.virtualbox.org" title="VirtualBox"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-VM-2A5DB0?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
 </p>
 
 ---
