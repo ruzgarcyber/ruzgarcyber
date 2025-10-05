@@ -58,8 +58,12 @@ Master Bug Bounty & Red Team | Develop Security Tooling | Share Practical Writeu
 ---
 
 ## 📬 Contact
-- GitHub: [@ruzgarcyber](https://github.com/ruzgarcyber)  
-- Email: ruzgaru.gundogan00@gmail.com  
+<p align="center">
+<a href="https://github.com/ruzgarcyber" title="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ruzgarcyber-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ruzgaru.gundogan00@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Email-ruzgaru.gundogan00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/ruzgarumut_12" title="Twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ruzgarumut_12-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 
 ---
 
