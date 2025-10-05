@@ -31,7 +31,6 @@
 ## 📂 Selected Projects
 <p align="center">
 <a href="https://github.com/ruzgarcyber/tcp-port-scanner" style="margin:5px; padding:10px 22px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">TCP Port Scanner</a>
-<a href="https://github.com/ruzgarcyber" style="margin:5px; padding:10px 22px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">CTF & Lab Writeups</a>
 </p>
 
 ---
