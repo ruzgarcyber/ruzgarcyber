@@ -52,7 +52,7 @@ Prototype → Test in Lab → Document → Automate
 ---
 
 ## 🎯 Current Goals
-| Master Bug Bounty & Red Team | Develop Security Tooling |
+| Master Bug Bounty & Red Team | Develop Security Tooling | Share Practical Writeups |
 
 ---
 
