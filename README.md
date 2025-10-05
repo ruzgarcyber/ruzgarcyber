@@ -10,27 +10,27 @@
 
 ## ⚡ Core Skills
 <p align="center">
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">Python</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">Bug Bounty</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">Red Team</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">OSINT</a>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #00ffff; color:#00ffff;">Python</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #00ffff; color:#00ffff;">Bug Bounty</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #00ffff; color:#00ffff;">Red Team</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #00ffff; color:#00ffff;">OSINT</span>
 </p>
 
 ---
 
 ## 🛠 Tools & Environment
 <p align="center">
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--accent-color,#ff3b3b); border:2px solid var(--accent-color,#ff3b3b); text-decoration:none; font-weight:bold; transition:0.2s;">Kali Linux</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--accent-color,#ff3b3b); border:2px solid var(--accent-color,#ff3b3b); text-decoration:none; font-weight:bold; transition:0.2s;">TryHackMe</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--accent-color,#ff3b3b); border:2px solid var(--accent-color,#ff3b3b); text-decoration:none; font-weight:bold; transition:0.2s;">VS Code</a>
-<a href="#" style="margin:5px; padding:8px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--accent-color,#ff3b3b); border:2px solid var(--accent-color,#ff3b3b); text-decoration:none; font-weight:bold; transition:0.2s;">Git & GitHub</a>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #ff3b3b; color:#ff3b3b;">Kali Linux</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #ff3b3b; color:#ff3b3b;">TryHackMe</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #ff3b3b; color:#ff3b3b;">VS Code</span>
+<span style="display:inline-block; margin:5px; padding:6px 15px; border-radius:12px; border:2px solid #ff3b3b; color:#ff3b3b;">Git & GitHub</span>
 </p>
 
 ---
 
 ## 📂 Selected Projects
 <p align="center">
-<a href="https://github.com/ruzgarcyber/tcp-port-scanner" style="margin:5px; padding:10px 22px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">TCP Port Scanner</a>
+<a href="https://github.com/ruzgarcyber/tcp-port-scanner" style="display:inline-block; margin:5px; padding:8px 18px; border-radius:12px; border:2px solid #00ffff; color:#00ffff; text-decoration:none;">TCP Port Scanner</a>
 </p>
 
 ---
@@ -51,8 +51,8 @@ Master Bug Bounty & Red Team | Develop Security Tooling | Share Practical Writeu
 
 ## 📬 Contact
 <p align="center">
-<a href="https://github.com/ruzgarcyber" style="margin:5px; padding:10px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">GitHub</a>
-<a href="mailto:ruzgaru.gundogan00@gmail.com" style="margin:5px; padding:10px 20px; border-radius:12px; background-color:var(--bg-color,#0d0d0d); color:var(--text-color,#00ffff); border:2px solid var(--text-color,#00ffff); text-decoration:none; font-weight:bold; transition:0.2s;">Email</a>
+<a href="https://github.com/ruzgarcyber" style="display:inline-block; margin:5px; padding:8px 18px; border-radius:12px; border:2px solid #00ffff; color:#00ffff; text-decoration:none;">GitHub</a>
+<a href="mailto:ruzgaru.gundogan00@gmail.com" style="display:inline-block; margin:5px; padding:8px 18px; border-radius:12px; border:2px solid #00ffff; color:#00ffff; text-decoration:none;">Email</a>
 </p>
 
 ---
