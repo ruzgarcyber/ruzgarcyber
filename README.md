@@ -30,7 +30,8 @@
 
 ## 📂 Selected Projects
 - 🔹 [TCP Port Scanner](https://github.com/ruzgarcyber/tcp-port-scanner)  
-
+- 🔹 [AegisRecon](https://github.com/ruzgarcyber/AegisRecon)
+- 🔹 [DNSGuard](https://github.com/ruzgarcyber/DNSGuard) 
 ---
 
 ## 📊 İstatistikler (GitHub / Diller)
