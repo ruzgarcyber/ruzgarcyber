@@ -30,10 +30,11 @@
 
 ## 📂 Selected Projects
 - 🔹 [AegisRecon](https://github.com/ruzgarcyber/AegisRecon)
-- 🔹 [DNSGuard](https://github.com/ruzgarcyber/DNSGuard) 
+- 🔹 [DNSGuard](https://github.com/ruzgarcyber/DNSGuard)
+- 🔹 [ByteSpectre](https://github.com/ruzgarcyber/ByteSpectre)
 ---
 
-## 📊 İstatistikler (GitHub / Diller)
+## 📊 Statistics (GitHub / Languages)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ruzgarcyber&show_icons=true&theme=dark&count_private=true" alt="Ruzgar's GitHub stats" />
 
@@ -42,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzgarcyber&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
-> Not: Dinamik kartlar `ruzgarcyber` kullanıcısına göre otomatik güncellenir.
+> Note: Dynamic cards are automatically updated according to the user `ruzgarcyber`.
 
 ---
 
