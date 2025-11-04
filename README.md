@@ -4,7 +4,9 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0Y3h3cWdkZTVxcDBnbHltZ3g3cmF3NTFkdWZod3J6M2RheThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="220" style="border-radius:50%; border:4px solid #ff3b3b;" />
 </p>
 
-**Aspiring ethical hacker · Bug bounty learner · Python security tooling**  
+**Aspiring Ethical Hacker · Bug Bounty Learner · Python Security Tool Developer**
+
+> Passionate about cybersecurity, automation and ethical hacking — focused on building practical tools for the red team.
 
 ---
 
@@ -13,6 +15,11 @@
 - 🛡️ Bug Bounty  
 - 🔴 Red Team  
 - 🔎 OSINT  
+
+---
+
+## 🧰 Tech Stack
+Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code
 
 ---
 
@@ -32,9 +39,10 @@
 - 🔹 [AegisRecon](https://github.com/ruzgarcyber/AegisRecon)
 - 🔹 [DNSGuard](https://github.com/ruzgarcyber/DNSGuard)
 - 🔹 [ByteSpectre](https://github.com/ruzgarcyber/ByteSpectre)
+
 ---
 
-## 📊 Statistics (GitHub / Languages)
+## 📊 GitHub Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ruzgarcyber&show_icons=true&theme=dark&count_private=true" alt="Ruzgar's GitHub stats" />
 
@@ -43,12 +51,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzgarcyber&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
-> Note: Dynamic cards are automatically updated according to the user `ruzgarcyber`.
+> Note: Dynamic cards are automatically updated for user `ruzgarcyber`.
 
 ---
 
 ## 🔹 Workflow
-Prototype → Test in Lab → Document → Automate
+⚙️ Prototype → 🧪 Test in Lab → 📄 Document → 🤖 Automate
 
 ---
 
@@ -73,7 +81,7 @@ Prototype → Test in Lab → Document → Automate
   </a>
 </p>
 
-
 ---
 
+> 💀 *Hack to learn, not to harm.*  
 > Always testing, always learning, always improving — share, collaborate, iterate.
