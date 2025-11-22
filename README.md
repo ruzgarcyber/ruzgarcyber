@@ -1,25 +1,41 @@
-# 🔴🛡️ Rüzgar Umut Gündoğan (ruzgarcyber)
+# 🔴⚔️ Rüzgar Umut Gündoğan (ruzgarcyber)
 
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0Y3h3cWdkZTVxcDBnbHltZ3g3cmF3NTFkdWZod3J6M2RheThrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="220" style="border-radius:50%; border:4px solid #ff3b3b;" />
-</p>
+<p align="center"> <img src="https://media2.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="220" style="border-radius:50%; border:4px solid #ff1e1e;" /> </p>
 
-**Aspiring Ethical Hacker · Bug Bounty Learner · Python Security Tool Developer**
-
-> Passionate about cybersecurity, automation and ethical hacking — focused on building practical tools for the red team.
+**Red Team Learner · Reverse Engineering (Learning) · Offensive Tool & Framework Developer (In Progress)**
+> *"Offense is engineering."*
 
 ---
 
-## ⚡ Core Skills
-- 🐍 Python  
-- 🛡️ Bug Bounty  
-- 🔴 Red Team  
-- 🔎 OSINT  
+## 🩸 What I Focus On
+- 🔴 Red Team Fundamentals → Internal Network Attack Logic
+- 🧬 Reverse Engineering (Ghidra · Assembly · Binary Internals)
+- ⚙️ Offensive Tool & Framework Development (Python → Go Learning)
+- 🛰 Network Protocol Analysis (TCP/IP, ARP, DNS, SMB, HTTP internals)
+- 🛡 Adversary Simulation Mindset (manual recon, stealth, OPSEC logic)
+
+## 🧬 Core Skills
+- Python Offensive Engineering
+> Building recon modules, scanners, enumeration logic, operational automation.
+
+- Reverse Engineering (Learning / Applying)
+> Ghidra(Learning) workflows, assembly reading, control‑flow tracing, binary behavior mapping.
+
+- Red Team Fundamentals → Operator-Level Progression
+> Attack-chain logic, privilege escalation theory, lateral movement concepts, manual enumeration mindset.
+
+- Network & Protocol Analysis
+> Packet inspection, traffic behavior profiling, TCP/UDP internals, Wireshark(Learning) low‑level workflows.
+
+- OSINT & Pre-Attack Intelligence
+> Infrastructure mapping, footprinting, adversary-prep data gathering.
+
+**Currently in the “apply & build” phase: implementing what I learn into real modules, tools and frameworks.**
 
 ---
 
-## 🧰 Tech Stack
-Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code
+## 🔴 Tech Stack
+Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code · Wireshark (Learning)  · Ghidra (Learning)
 
 ---
 
@@ -39,6 +55,7 @@ Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code
 - 🔹 [AegisRecon](https://github.com/ruzgarcyber/AegisRecon)
 - 🔹 [DNSGuard](https://github.com/ruzgarcyber/DNSGuard)
 - 🔹 [ByteSpectre](https://github.com/ruzgarcyber/ByteSpectre)
+- 🔹 **StrikeScan-Framework** *(coming soon...)*
 
 ---
 
@@ -55,13 +72,13 @@ Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code
 
 ---
 
-## 🔹 Workflow
-⚙️ Prototype → 🧪 Test in Lab → 📄 Document → 🤖 Automate
-
----
-
-## 🎯 Current Goals
-| Master Bug Bounty & Red Team | Develop Security Tooling | Share Practical Writeups |
+## 🔴 Current Goals
+- Achieve deep binary analysis proficiency & confident Ghidra navigation
+- Advance Go skills for high‑performance offensive tooling and concurrency‑based modules
+- Internalize lateral movement mechanisms (credential flow, token abuse, session pivot logic)
+- Architect a modular offensive framework with plug‑based operators and protocol‑specific modules
+- Strengthen network-level understanding (SMB dialects, RPC endpoints, DNS behavior, ARP poisoning logic)
+- Reinforce OPSEC discipline and decision‑flow for silent operations
 
 ---
 
@@ -84,4 +101,6 @@ Python · Go (Learning) · Linux · Git · Networking · VMware · VS Code
 ---
 
 > 💀 *Hack to learn, not to harm.*  
-> Always testing, always learning, always improving — share, collaborate, iterate.
+> **“Learn the internals. Break the externals. Build your own tools. Repeat.”**
+
+---
